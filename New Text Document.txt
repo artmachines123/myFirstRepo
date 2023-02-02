@@ -1,0 +1,7 @@
+-----------------------------------------02/02/2023-------------------------------------------------------------
+1.) obtain older versions:
+-> git checkout [hash code] --filename  //commit ID(furst 5 chars are enough)
+2.) view log files
+-> git log
+3.) Latest commit details
+-> git show
